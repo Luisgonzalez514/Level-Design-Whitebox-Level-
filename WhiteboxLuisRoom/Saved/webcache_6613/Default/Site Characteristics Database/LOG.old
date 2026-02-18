@@ -1,6 +1,1 @@
-2026/02/16-21:06:50.758 270c Log #6: 1 ops saved to Table #7 OK
-2026/02/16-21:06:50.760 270c Archiving C:\Users\no995165\Documents\GitHub\Level-Design-Whitebox-Level-\WhiteboxLuisRoom\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
-2026/02/16-21:06:50.778 270c Table #4: 2 entries OK
-2026/02/16-21:06:50.778 270c Table #7: 1 entries OK
-2026/02/16-21:06:50.798 270c Archiving C:\Users\no995165\Documents\GitHub\Level-Design-Whitebox-Level-\WhiteboxLuisRoom\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/02/16-21:06:50.827 270c **** Repaired leveldb C:\Users\no995165\Documents\GitHub\Level-Design-Whitebox-Level-\WhiteboxLuisRoom\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 341 bytes. Some data may have been lost. ****
+2026/02/16-21:06:50.893 270c Reusing MANIFEST C:\Users\no995165\Documents\GitHub\Level-Design-Whitebox-Level-\WhiteboxLuisRoom\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
